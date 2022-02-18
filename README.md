@@ -13,5 +13,5 @@ E-Commerce with a nature theme by Jakob Bergström
 # Images
 I have not been able to add images because of a babel/jest misconfiguration and correcting it is way above my knowledge, i've sat for ~4 hours trying different configs and settings.
 
-#Credentials
+# Credentials
 login with: user/user
